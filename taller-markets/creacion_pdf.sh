@@ -1,0 +1,1 @@
+a2x -fpdf -darticle --verbose --keep-artifacts --no-xmllint --fop guia-play-store.adoc

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+
+<article lang="en">
+<articleinfo>
+    <title>Guía de Google Play Store</title>
+</articleinfo>
+<section id="_introducción">
+<title>Introducción</title>
+<simpara>La presente guía sirve como referencia para la configuración y uso de una cuenta
+en Google Play Store.</simpara>
+<simpara>Google Play Store (<ulink url="http://play.google.com/">http://play.google.com/</ulink>) es el canal de distribución
+principal de aplicaciones para Android. En esta página usted podrá descargar
+las aplicaciones que desee instalar en sus dispositivos móviles.</simpara>
+<simpara>Estos markets pueden ser accedidos ya sea desde el navegador de una computadora
+(Chrome, Firefox, Safari, Internet Explorer, etc.) o desde los propios
+dispositivos móviles.</simpara>
+</section>
+<section id="_loguearse_en_su_cuenta">
+<title>Loguearse en su cuenta</title>
+<simpara>Para poder ingresar al market, debe de tener una cuenta gmail activa. En caso de
+no tener, ir a <ulink url="http://www.gmail.com">http://www.gmail.com</ulink> y obtenerla.</simpara>
+<simpara>Dirigirse a la página <ulink url="http://play.google.com">http://play.google.com</ulink> y hacer click en el botón azul
+"Sign in".</simpara>
+<informalfigure>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="imagen1.png" width="100%" scalefit="1"/>
+  </imageobject>
+  <textobject><phrase>Imagen 1</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>Posteriormente, ingresar los datos de su cuenta gmail (usuario y contraseña).</simpara>
+<simpara>Luego verá su pantalla principal con un menú de los tipos de contenido que
+usted puede obtener en el market.</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Apps
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Películas
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Música
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Libros
+</simpara>
+</listitem>
+</itemizedlist>
+<informalfigure>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="imagen2.png" width="100%" scalefit="1"/>
+  </imageobject>
+  <textobject><phrase>Imagen 2</phrase></textobject>
+</mediaobject>
+</informalfigure>
+</section>
+<section id="_configuración_de_su_cuenta">
+<title>Configuración de su cuenta</title>
+<simpara>Al hacer click en el engranaje <inlinemediaobject>
+  <imageobject>
+  <imagedata fileref="engranaje"/>
+  </imageobject>
+  <textobject><phrase>engranaje</phrase></textobject>
+</inlinemediaobject> (parte superior derecha)
+tendrá las siguientes opciones:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Mis pedidos: Se listan todas el contenido comprado por el market.
+</simpara>
+</listitem>
+</itemizedlist>
+<informalfigure>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="imagen3.png" width="100%" scalefit="1"/>
+  </imageobject>
+  <textobject><phrase>Imagen 3</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<itemizedlist>
+<listitem>
+<simpara>
+Configuración: Se muestran todos los dispositivos vinculados a su cuenta gmail.
+</simpara>
+</listitem>
+</itemizedlist>
+<informalfigure>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="imagen4.png" width="100%" scalefit="1"/>
+  </imageobject>
+  <textobject><phrase>Imagen 4</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<itemizedlist>
+<listitem>
+<simpara>
+Administración de dispositivos: Para poder gestionar el dispositivo móvil desde
+cualquier lugar.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_buscar_una_app">
+<title>Buscar una app</title>
+<simpara>En la parte izquierda, uno puede ver las aplicaciones que se han comprado (Mis
+ Aplicaciones), así como las que están disponibles para adquirir (Comprar).</simpara>
+<simpara>Dentro de las aplicaciones que uno tiene disponible para adquirir, las puede
+filtrar por "Categorías", ver cuáles son más populares y cuales son estrenos.</simpara>
+<informalfigure>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="imagen5.png" width="100%" scalefit="1"/>
+  </imageobject>
+  <textobject><phrase>Imagen 5</phrase></textobject>
+</mediaobject>
+</informalfigure>
+</section>
+<section id="_descargar_e_instalar_una_app">
+<title>Descargar e instalar una app</title>
+<simpara>Para poder descargar una app, solamente hacer click en la que les interese.</simpara>
+<simpara>Al hacer esto, podrá ver información referente a la app como:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+El fabricante
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Dispositivos para los cuales es compatible la app
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Rating
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Imagenes y/o videos
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Descripción
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Opiniones (muy importante)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Información adicional
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Aplicaciones similares y otras apps del fabricante
+</simpara>
+</listitem>
+</itemizedlist>
+<informalfigure>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="imagen6.png" width="100%" scalefit="1"/>
+  </imageobject>
+  <textobject><phrase>Imagen 6</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<informalfigure>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="imagen7.png" width="100%" scalefit="1"/>
+  </imageobject>
+  <textobject><phrase>Imagen 7</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>Para proceder a la instalación de la aplicación, hacer click en el botón "Instalar".</simpara>
+<simpara>Luego aparecerá una pantalla donde uno debe confirmar la instalación de la app.
+Tomar en cuenta que es muy importante leer los accesos que esta aplicación pide.</simpara>
+<informalfigure>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="imagen8.png" width="100%" scalefit="1"/>
+  </imageobject>
+  <textobject><phrase>Imagen 8</phrase></textobject>
+</mediaobject>
+</informalfigure>
+</section>
+</article>
